@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=u\ manName
+comment1.target=Manager(java.lang.String,\ java.lang.String)
+comment2.params=manName
+comment2.target=void\ setManager(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getManagerName()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
